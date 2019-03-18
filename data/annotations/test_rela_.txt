@@ -1,0 +1,1000 @@
+sidewalk,by  by,clock  
+crack,in  in,sidewalk  
+near,homes  
+in,parking lot  Cars,in  
+in,container  food,in  
+in,container  food,in  
+in,container  food,in  
+screen,showing  
+sitting,headphones  
+board,with  with,papers  
+people,in  in,classroom  
+chair,in  in,room  
+standing,door  
+man,sitting  sitting,screen  
+on,shirt  boy,on  
+hair,on  on,head  
+bag,in  in,hand  
+man,wearing  wearing,headphones  
+boy,with  with,shirt  
+filled,liquid  
+woman,in  
+woman,wearing  wearing,jeans  
+woman,wearing  wearing,shirt  
+wearing,glasses  woman,wearing  
+cleaning,stalls  lady,cleaning  
+on her,face  glasses,on her  
+sneakers,on  
+on,man  
+on,door  hand,on  
+going to clean,toilets  
+in,bathroom  
+in,bathroom  toilet,in  
+under,counter  box,under  
+burners,on  on,stove  
+on,utensil  
+kitchen,with  with,cupboards  
+box,under  under,table  
+to,bathroom  entrance,to  
+of,stove  
+in,kitchen  refrigerator,in  
+head,on  on,pillow  
+earphone,on  on,ear  
+glasses,on  on,face  
+cords,on  on,chest  
+ear,of  of,child  
+nose,of  of,man  
+head,of  of,child  
+man,lying on  lying on,pillow  
+child,lying on  lying on,pillow  
+man,wearing  wearing,shirt  
+donuts,on wax  
+sprinkled with,sugar  
+beneath,donuts  
+Peanut,on  on,donut  
+napkins,under  under,food  
+in,photo  paper,in  
+color,on  on,table  
+in,photo  table,in  
+in,photo  box,in  
+on,donut  
+of a,chicken  portrait,of a  
+cup,on  on,table  
+in front of,boy  
+on,floor  
+enjoying,Friend  Boy,enjoying  
+on,road  
+tree,on  on,road  
+on,road  line,on  
+by,water  bicycle,by  
+on,ground  newspaper,on  
+of,tree  
+newspaper,under  under,bike  
+boat,in  in,water  
+on,man  
+with,shades  woman,with  
+on top of,hill  
+grass,along  
+train,moving along  moving along,tracks  
+grass,growing along  
+engine,of  of,train  
+for,train  
+sky,above  above,mountain  
+sky,above  above,land  
+building,on  on,hillside  
+people,sitting in  sitting in,train  
+plane,parked on  parked on,runway  
+wheels,on  on,plane  
+on,road  
+cone,on  on,tarmac  
+door,on  on,airplane  
+wheel,on  on,airplane  
+on,tarmac  airplane,on  
+shadow,on  on,ground  
+Blackberry,in  in,hand  
+speaker,on  on,phone  
+palm,of  of,hand  
+on,phone  
+fingernail,on  on,hand  
+screen,of  of,phone  
+thumb,on  on,hand  
+on,phone  
+hand,holding  holding,blackberry  
+key,on  on,blackberry  
+nose,painted on  painted on,bus  
+of,windows  bus,of  
+in a,field  bus,in a  
+by a,bus  
+with,stripes  bus,with  
+driving in on,path  bus,driving in on  
+kids,looking out  
+sign,on  
+boards,with  with,graffiti  
+on side of,street  
+sign,in  in,road  
+on,sign  
+hanging from,fence  
+tree,in  in,mulch  
+posters,on  
+sign,in  in,street  
+sign,in  in,street  
+sign,in  in,street  
+on,fence  
+on,street  
+water,on  on,street  
+middle,sidewalk  
+sidewalk,among  
+Flowers,in  in,container  
+of,cat  
+looking,window  kitten,looking  
+flowers,sitting on  sitting on,deck  
+deck,by  by,window  
+microwave,on  on,counter  
+calendar,on  on,wall  
+on,floor  
+towel,on  
+on,fridge  Pictures,on  
+filled with,knives  
+on,floor  
+by,fridge  cabinets,by  
+picture,on  on,fridge  
+shadow,on  on,wall  
+bowl,on  on,floor  
+bowl,on  on,floor  
+Microwave,on  on,counter  
+on,counter  
+Towels,hanging on  
+oven,built in to  built in to,wall  
+of,wine  
+Man,wearing a  wearing a,sweatshirt  
+glass,of  of,wine  
+tines,of a  
+man,preparing to serve  preparing to serve,pizza  
+next to a,plate  
+fork,next to a  next to a,plate  
+in center of,picture  
+under,pizza  
+on far side of,table  
+on,window  
+on,building  balcony,on  
+in,sky  Clouds,in  
+on,building  window,on  
+in front of,building  balcony,in front of  
+on,building  brick,on  
+on,building  statue,on  
+window,on  on,building  
+on,building  balcony,on  
+on,building  
+clock,on  on,building  
+around,balcony  
+on,floors  lines,on  
+on,building  symbols,on  
+wave,crashing on  
+sand,under  under,bird  
+water,behind  behind,bird  
+waves,along  
+bird,at  at,beach  
+at,beach  
+knob,on  on,umbrella  
+paper,covering  covering,laptop  
+cable,to a  to a,computer  
+Raft,sitting on  sitting on,beach  
+cliff,near  near,water  
+standing near,boats  
+dirt,near  near,grass  
+on,garbage truck  
+on,truck  
+on,truck  wheel,on  
+letters,on  on,truck  
+on,truck  numbers,on  
+street,under  under,truck  
+clouds,in  in,sky  
+couple,holding  holding,umbrella  
+water,on  on,ground  
+HEAD,on  
+TREES,over  over,WALL  
+over,BUILDING  
+by,tracks  grass,by  
+has,light  train,has  
+train,on  on,railroad  
+trees,in front  in front,house  
+pole,in front  in front,house  
+disappearing into,grass  
+man,smoking on  smoking on,scooter  
+has,drawings  fridge,has  
+people,on  on,lorry  
+has,sodas  
+man,on  on,scooter  
+on,ground  bag,on  
+watch,on  
+power lines,across  across,street  
+drinks,in  
+on,clock  
+in,background  
+hand,on  on,clock  
+in,distance  building,in  
+under,clock  rocks,under  
+in,water  barge,in  
+on other side of,bay  
+of,clock  
+boulder,on  on,shore  
+Water,behind  behind,tower  
+with,liquid  bottle,with  
+holding,phone  boy,holding  
+with,liquid  bottle,with  
+bottle,on  
+boy,holds  holds,object  
+liquid,in  in,bottle  
+behind,kid  door,behind  
+Boy,leaning against  leaning against,counter  
+switch,on  on,wall  
+cover,ground  Dirt,cover  
+wearing,sunglasses  man,wearing  
+water,on  on,sand  
+boy,swinging  swinging,bat  
+wearing,jeans  
+wearing,shirt  woman,wearing  
+fence,in front of  in front of,cows  
+trees,behind  behind,field  
+clouds,in  in,sky  
+grass,in front of  
+standing on,grass  
+by,dirt  tree,by  
+cows,standing in  standing in,field  
+in a,field  cow,in a  
+cow,in a  in a,field  
+in a,field  cow,in a  
+woman,in  
+ear,of a  of a,cow  
+head,of  of,woman  
+jeans,of  of,woman  
+design,on  on,surfboard  
+man,has  has,hair  
+feet,on  on,board  
+man,in  
+man,on  on,surfboard  
+surfer,in  
+surfer,on  on,surfboard  
+deck,side  
+snowboard,on  on,wall  
+straps,on  
+people,on  on,wall  
+people,on  on,beach  
+waves,in  in,water  
+on,hill  
+Posts,along  
+sun,on  on,wall  
+fence,on  
+girl,behind  behind,fence  
+water,in  in,cove  
+between,fences  
+fences,in  in,water  
+behind,pole  
+fence,in  in,sand  
+in,sand  
+People,on  on,wall  
+on,ground  
+Person,on  on,beach  
+pier,in  in,ocean  
+loops,on  
+Airport,in  in,distance  
+on,wrist  wristband,on  
+shorts,on  on,woman  
+pants,on  on,woman  
+wearing,shirt  woman,wearing  
+wearing,coat  
+woman,in  in,hat  
+Woman,wearing  
+Woman,wearing  
+Woman,wearing  
+playing tennis on,grass  Woman,playing tennis on  
+tank top,on  on,tennis player  
+on,head  
+in,grass  sheep,in  
+sheep,in  in,grass  
+sheep,in  in,grass  
+under,sky  mountain,under  
+in,field  grass,in  
+hill,behind  behind,sheep  
+covering,hill  
+cloud cover,in  in,sky  
+pasture,of  of,grass  
+wearing a,life vest  child,wearing a  
+on,water  
+man,surfing with a  surfing with a,child  
+child,on  
+children,on  on,surfboard  
+hat,on  on,head  
+bucket,behind  behind,horse  
+spot,on  on,horse  
+ear,on  on,horse  
+mane,on  on,horse  
+mane,on  on,horse  
+on,horse  tail,on  
+on,ground  grass,on  
+in,sky  cloud,in  
+behind,cloud  sky,behind  
+standing in,field  
+hanging from,horse  
+displaying,price  paper,displaying  
+with,doll  
+bush,behind  behind,bench  
+woman,reading  reading,book  
+shoe,hanging on  hanging on,leg  
+woman,sitting on  sitting on,bench  
+woman,reading  reading,book  
+woman,wearing  wearing,dress  
+shrubs,growing in  
+woman,holding  holding,book  
+sitting on,bench  
+dangling,shoe  
+has,legs  
+holding,book  
+on,grass  
+car,on  on,street  
+letter,on  on,meter  
+on,meter  
+on,meter  
+on,parking meter  
+on,meter  
+number,on  on,meter  
+on,parking meter  
+near,parking lot  
+near,street  poles,near  
+near,parking lot  pole,near  
+on,parking meter  
+along,road  
+next to,toilet  
+of,toilet  
+wall,behind  behind,toilet  
+reflected in,mirror  
+MIRROR,over  over,SINK  
+connected to,toilet  
+faucet,on  
+toilet,in  in,bathroom  
+Towels,on  on,shelf  
+above,sink  mirror,above  
+in,bathroom  sink,in  
+by,sink  Toothbrushes,by  
+above,mirror  Lamps,above  
+towel,on a  on a,shelf  
+bottle,of  
+mirror,hung on  hung on,wall  
+switches,on  on,wall  
+and a,razor  
+bottle,with  with,soap  
+branch,behind a  
+water,around  around,elephants  
+skiing on,slope  
+on,woman  jacket,on  
+skier,going down  going down,slope  
+rock,in  in,snow  
+boot,with  
+face,with  with,sunglasses  
+woman,wearing  
+trees,behind  behind,elephant  
+skin,on  on,elephant  
+on,ground  dirt,on  
+hair,on  on,elephant  
+leaves,on  on,ground  
+letter,on  
+letter,on  
+says,HOUR  
+leaves,on  on,sidewalk  
+by,sidewalk  
+bush,behind  
+has a,cap  
+on,ground  
+on,ground  
+on,ground  
+on,ground  
+on,ground  
+on,ground  
+on,ground  
+sticker,on  on,meter  
+leaves,on  on,road  
+on,meter  
+bush,behind  behind,wall  
+logo,on  on,motorcycle  
+symbol,on  on,motorcycle  
+shadow,on  on,building  
+on,motorcycle  part,on  
+by,sidewalk  line,by  
+tape,around  around,pole  
+over,road  
+pole,under  under,sign  
+on,street  
+wheel,on  on,car  
+sky,above  above,building  
+across,road  
+bridge,over  over,road  
+on,building  
+chimney,on  
+on,stand  
+panel,on top of  on top of,ottoman  
+under,ottoman  
+fringe,on  
+pillow,on  
+cushion,on  
+rug,at  at,door  
+in,room  
+on,stand  
+pillows,on  on,couch  
+on,rug  
+television,on  
+objects,on  
+on,pathway  Shadow,on  
+front,building  bush,front  
+on,chin  hair,on  
+head,of  of,person  
+collar,on  on,shirt  
+man,wearing  wearing,jacket  
+man,wearing  wearing,tie  
+wearing,jacket  man,wearing  
+man,has  
+man,on  on,surfboard  
+in,water  
+on,water  Waves,on  
+surfer,in  in,water  
+surfboard,on  on,water  
+reflection,on  on,water  
+sky,above  above,ground  
+board,under  under,man  
+surfer,in  in,ocean  
+of,wave  
+Man,on  on,surfboard  
+riding,waves  surfer,riding  
+Surfer,in  
+curb,of  of,sidewalk  
+cigarettes,on  on,road  
+crack,on  on,sidewalk  
+people,near  near,trash  
+bicycle,against  against,post  
+tree,near  near,building  
+tree,in  in,toilet  
+branch,in  in,toilet  
+window,above  
+tree,behind  behind,garbage  
+branch,inside  inside,bowl  
+walking,girl  man,walking  
+on,curb  
+man,walking down  walking down,sidewalk  
+bicycle,leaning against  leaning against,pole  
+Plant,coming out of  coming out of,toilet  
+behind,toilets  
+edge,of  of,net  
+line,on  on,court  
+stripe,on  on,shorts  
+shorts,on  on,man  
+in,air  
+man,playing  playing,tennis  
+ball,in  in,air  
+man,in  in,motion  
+man,playing  playing,tennis  
+leg,in  in,air  
+on,ear  tag,on  
+near,road  
+on,road  
+rocks,on side of  on side of,road  
+man,on  on,skateboard  
+knee pads,on  on,legs  
+man,wearing  
+man,holding  holding,skateboard  
+skateboarding on,ramp  
+on,skateboard  man,on  
+marks,on  on,ramp  
+bench,by  by,wall  
+wheels,of  of,skateboard  
+elephant,near  near,water  
+shadow,under  under,elephant  
+water,by  by,shoreline  
+elephant,in  in,dirt  
+trunk,of  of,elephant  
+tail,of  of,elephant  
+lake,behind  behind,elephant  
+on,lake  
+tree trunk,hanging out over  hanging out over,water  
+elephant,on right side of  on right side of,picture  
+pond,in center of  in center of,picture  
+hanging over,water  
+along,water  
+elephant,with a  with a,trunk  
+tree,behind a  behind a,elephant  
+shadow,on  on,water  
+of a,elephant  Head,of a  
+people,on  on,bus  
+on,seat  
+woman,has a  has a,helmet  
+goggles,are falling off of  are falling off of,helmet  
+under,woman  
+lady,holding  
+man,wearing  
+people,on a  on a,ski lift  
+boy,holding  holding,skies  
+has,hood  
+girl,holding  
+on,seats  people,on  
+man,holding  
+man,holding  holding,camera  
+ring,on  
+in,sky  clouds,in  
+on,grass  shadow,on  
+finger,with  
+on,plate  food,on  
+tomato,on  on,dog  
+shadow,on  on,plate  
+sun,on  on,table  
+plate,on  on,surface  
+meat,between  between,buns  
+dog,in  in,buns  
+light,on  on,table  
+in,water  
+wading in,river  elephant,wading in  
+in,water  
+bushes,growing next to  growing next to,water  
+hills,and  and,trees  
+grass,in  in,water  
+in,grass  twigs,in  
+elephant,i  i,water  
+still on,grass  foot,still on  
+trunk,i  i,water  
+in,bowl  
+in,bowl  
+in,bowl  
+on,stove  
+bowl,of  of,food  
+nose,of  of,dog  
+in,air  
+person,a  a,child  
+people,walking on  walking on,sidewalk  
+has,windows  building,has  
+painted on,street  
+showing,signal  Traffic light,showing  
+Car,driving down  driving down,street  
+on a,building  
+traffic light,on  on,pole  
+over,road  traffic light,over  
+cars,driving down  driving down,road  
+with,lights  
+traffic light,above  
+wheel,on  on,car  
+on,building  Windows,on  
+bananas,on  on,table  
+bars,in front of  
+bananas,on  on,table  
+man,wearing  wearing,shirt  
+has,hair  woman,has  
+cup,on  on,table  
+woman,wearing  wearing,ring  
+man,has  has,glasses  
+typing on,laptop  
+Man,wearing  wearing,shirt  
+wearing,shirt  Man,wearing  
+Man,wearing  wearing,glasses  
+Man,wearing  wearing,shirt  
+Man,wearing  wearing,undershirt  
+near,beach  
+sky,above  above,ocean  
+under,man  board,under  
+head,of  of,man  
+strings,above  above,man  
+rocks,next to  next to,ocean  
+in,water  
+wearing,shorts  person,wearing  
+person,in  in,ocean  
+Hole,in  in,fence  
+in,fence  
+wood grain,in  
+flowers,on  on,weed  
+sign,indicating  indicating,lifeguard  
+sign,indicating  indicating,lifeguard  
+on,beach  
+sand,alongside  alongside,beach  
+standing in,sand  
+fence,on  on,beach  
+sand,on  on,beach  
+on,beach  
+girl,with  with,hair  
+Lifeguard,on a  
+boy,behind  
+Clouds,under  
+in,sand  
+girl,beside  
+sand,on  on,ground  
+face,with  with,hair  
+house,on  on,hill  
+on,beach  
+grass,in  in,sand  
+house,in  in,background  
+foot,of a  of a,boy  
+player,wearing  wearing,sunglasses  
+wearing,belt  player,wearing  
+on,hand  
+Man,wearing  wearing,sunglasses  
+dirt,on  on,ground  
+belt,on  on,pants  
+on,field  
+ball,in  in,air  
+ball,in  in,air  
+letters,on  on,shirt  
+shoe,in  in,grass  
+in,air  
+on,shirt  
+player,wearing  
+by,wall  
+in,air  
+cap,on  
+on,player  
+on,shirt  
+players,throwing  throwing,ball  
+grass,in  
+around,field  
+mountain,behind  behind,train  
+curb,by  by,train  
+near,train  
+fence,in front of  in front of,train  
+sky,above  above,train  
+of,train  car,of  
+by,train  sidewalk,by  
+shadow,on  on,mountain  
+paint,on  on,curb  
+leaves,on  on,tree  
+sign,on  
+clouds,in  in,sky  
+number,on  on,train  
+wheel,on  on,train  
+near,tracks  fence,near  
+engine,of  of,train  
+number,on  on,engine  
+of,train  
+line,on  on,ground  
+wheels,on  on,train  
+nose,on  on,horse  
+saddle,on  on,horse  
+on,neck  hair,on  
+hair,on  on,tail  
+boy,on  on,ground  
+on,horse  saddle,on  
+stirrup,on  on,saddle  
+next to,boy  log,next to  
+on,shorts  strip,on  
+Woman,wearing  wearing,socks  
+Woman,wearing  wearing,shorts  
+Woman,wearing  wearing,shirt  
+wearing,shirt  Woman,wearing  
+Woman,wearing  wearing,visor  
+Woman,has  has,hair  
+with,ball  
+player,holding  
+joystick,of  of,controller  
+joystick,of  of,controller  
+on,controller  
+for,controller  
+on,controller  button,on  
+on,controller  button,on  
+button,on  on,controller  
+in,table  
+logo,on  
+button,on  on,controller  
+woman,in  in,backyard  
+dog,with  with,toy  
+strap,on  on,wrist  
+in,hand  
+girl,wearing  wearing,jeans  
+girl,wearing  wearing,belt  
+girl,wearing  wearing,boots  
+girl,holding  
+woman,wearing  wearing,belt  
+Design,on  
+markings,on  on,wall  
+on,head  
+scooter,in  in,road  
+on,road  
+sign,on  
+motorcycle,on  on,road  
+houses,on  on,street  
+on,road  
+band,on  
+mailbox,on  on,road  
+on,road  
+sign,says  says,way  
+motorcycle,at  at,curb  
+box,on  on,grass  
+at,curb  
+shadow,on  on,ground  
+cars,in  in,driveways  
+motorcycle,in  in,street  
+street signs,by  
+drawer,under  under,shelf  
+on,door  
+jar,of  of,salsa  
+patch,of  of,fur  
+ear,of a  of a,cat  
+eye,of a  of a,cat  
+of a,cat  nose,of a  
+in,photo  bottle,in  
+nose,of  of,cat  
+in,fridge  bottle,in  
+cap,of  of,bottle  
+milk,with a red  with a red,lid  
+jug,of orange juice with  of orange juice with,lid  
+cat,in front of an open  
+jar,of salsa in  
+post,on  on,fence  
+in,field  sheep,in  
+ear,of  of,horse  
+fence,to keep  to keep,horse  
+of,horse  
+head,of  of,horse  
+behind,horse  
+eating,grass  
+in,grass  
+in,background  
+horse,by  by,fence  
+on,ground  
+in,wires  clip,in  
+on,beach  woman,on  
+seaweed,on  on,beach  
+water,behind  behind,girl  
+woman,wearing  
+wearing,pants  woman,wearing  
+woman,standing on  standing on,beach  
+woman,wearing  wearing,shoes  
+beach,littered with  
+heart,on  on,wall  
+next to,wall  fence,next to  
+wall,above  above,hearts  
+toaster,on  on,wall  
+on a,wall  
+figure,on a  on a,wall  
+Saucer,under  under,plant  
+on,table  Place mat,on  
+in,bowl  banana,in  
+on,table  Plants,on  
+sunlight,on  on,table  
+with,stem  strawberry,with  
+strawberry,with a  with a,stem  
+apple,in  
+bowl,under  under,pot  
+on,banana  
+strawberry,resting on  
+in a,bowl  
+unicycle,leaning on  
+man,wearing  wearing,hat  
+pole,on  
+walking out,building  people,walking out  
+on,shelf  potatoes,on  
+on,shelf  radishes,on  
+on,shelf  pineapples,on  
+on,shelf  
+at,store  
+in,store  onions,in  
+behind,man  
+in,hand  
+in,wall  
+on,mantle  
+in,fireplace  logs,in  
+on,mantle  flower,on  
+on,mantle  picture,on  
+clock,on  on,mantle  
+window,in  in,room  
+woman,on  on,bike  
+man,with  with,shirt  
+hair,on a  on a,head  
+clothes,on a  on a,line  
+man,walking next to  walking next to,donkey  
+donkey,walking down a  walking down a,path  
+giraffes,in  in,zoo  
+children,at  at,fence  
+on,side  
+giraffes,on  on,ground  
+post,on  on,ground  
+Board,attached to  attached to,rod  
+paint,off of a  off of a,pole  
+branch,of a  of a,tree  
+of a,tree  branch,of a  
+branch,of a  of a,tree  
+signs,next to  next to,signs  
+corner,of  
+sign,next to  
+on,post  
+sign,connected to  connected to,building  
+on,building  wall,on  
+man,has  has,hair  
+man,has  has,beard  
+man,standing on  standing on,snowboard  
+wearing,skirt  Man,wearing  
+Man,riding  riding,snowboard  
+standing on,ground  
+on,foot  
+man,using  
+wearing,skirt  man,wearing  
+has,hair  man,has  
+man,has  has,beard  
+man,wearing  wearing,glasses  
+on,curb  
+sitting on,curb  
+man,on  on,scooter  
+man,on  on,bike  
+walking in,street  woman,walking in  
+person,riding a  riding a,bike  
+person,riding  riding,moped  
+person,wearing  
+symbol,on  
+man,in a  in a,sweater  
+tree,behind  behind,statue  
+structure,on top of a  on top of a,building  
+cyclist,wearing  wearing,shirt  
+statue,on  on,pedestal  
+on,street  lines,on  
+sign,on  
+sign,near  near,street  
+wheels,of  of,bicycle  
+of,vehicle  
+light,on top of  on top of,pole  
+in,area  plant,in  
+zebras,standing in a  standing in a,field  
+eating,grass  
+outside of,fence  Zebras,outside of  
+staring off into,distance  Zebra,staring off into  
+Zebra,nuzzling  nuzzling,Zebra  
+of,zebra  
+road,goes up  goes up,hill  
+zebra,behind  
+person,wearing  wearing,jeans  
+in front of,houses  gate,in front of  
+People,at  
+Skateboarder,with  with,shirt  
+on,boy  
+made of,metal  Rail,made of  
+People,painted on  painted on,ramp  
+Man,wearing  wearing,fedora  
+Skateboard,under  under,boy  
+boy,wearing  wearing,shirt  
+has,hair  boy,has  
+boy,has  has,hair  
+man,wearing a  wearing a,hat  
+boy,wearing a  wearing a,helmet  
+men,on a  on a,ramp  
+man,on a  on a,skateboard  
+man,wearing  wearing,helmet  
+man,wearing  wearing,hat  
+man,holding  holding,rail  
+wearing,helmet  
+wearing,derby hat  
+man,against  against,fence  
+pictures,painted on  
+wearing,shorts  man,wearing  
+man,in  in,shorts  
+woman,in  in,shirt  
+man,in  in,shorts  
+on,fence  
+playing in,field  people,playing in  
+man,wears  
+man,has  
+on,grass  cone,on  
+woman,in  in,tank top  
+man,not wearing  not wearing,shirt  
+by,bed  
+Sand,at  at,beach  
+log,on  on,sand  
+water,beneath  beneath,sky  
+person,wearing  wearing,shorts  
+shadow,of  of,man  
+of,man  shadow,of  
+sand,on  on,ground  
+on,ground  sand,on  
+sand,on  on,ground  
+on,ground  sand,on  
+cast by,chair  shadow,cast by  
+woman,on  on,sand  
+on,beach  
+on,beach  
+chair,on  on,beach  
+on,beach  shadow,on  
+on,beach  
+man,with  with,hat  
+man,walking  
+object,sticking  sticking,umbrella  
+man,wearing  wearing,flops  
+sand,on  on,beach  
+on,man  
+on,man  
+on,umbrella  logo,on  
+shadow,on  on,sand  
+with,face  clock,with  
+on,pole  
+around,clock  
+clock,on  on,tower  
+opening,in  in,tower  
+in,window  basket,in  
+in,building  window,in  
+of,building  
+cut into,shutter  diamond,cut into  
+in,house  brick,in  
+brick,in  in,house  
+ribbon,on  on,vase  
+vase,on  on,table  
+doily,on  on,table  
+plant,on  
+vase,on  on,table  
+vase,on  
+vase,with  with,flowers  
+vase,on  on,doily  
+doily,on  on,table  
+doily,under  under,vase  
+behind,vase  
+couch,behind  behind,vase  
+Doily,on  on,Table  
+on,Table  
+flowers,in  
+couch,in  
+snow,covered  
+snow,covered  
+sign,covered in  covered in,snow  
+covered in,snow  pole,covered in  
+covered,sign  snow,covered  
+covered in,snow  trees,covered in  
+snow,on  
+surface,of  of,road  
+with,snow  sign,with  
+with,snow  pole,with  
+sign,covered in  covered in,snow  
+letters,visible on  
+field,covered in  covered in,snow  
+branches,are covered in  are covered in,snow  
+Snow,covered  
+Mailbox,on side of  on side of,road  
+Snow,covered  covered,trees  
+letters,on  
+covered with,snow  
+door,by  by,fridge  
+woman,leaning over  leaning over,couch  
+on,couch  
+near,door  
+door,near  
+next to,stove  
+throwing,frisbee  
+purse,on  on,couch  
+woman,wearing  wearing,shirt  
+woman,wearing  wearing,jeans  
+suspended from,ceiling  
+people,wearing  
+woman,looking at  looking at,cannon  
+people,at  
+woman,on a  on a,podium  
+airplane,hanging from  hanging from,ceiling  
+woman,wearing a  wearing a,skirt  
+woman,with  with,hair  
+woman,wearing a  wearing a,shirt  
+woman,with  with,hair  
+Person,wearing  wearing,pants  
+airplane,hanging from  hanging from,ceiling  
+airplane,has  has,guns  
+airplane,has  
+looking at,cannon  
+standing on a,platform  
+armrest,of  of,couch  
+couch,next to  next to,television  
+thing,on  on,couch  
+arm,of  of,couch  
+picture,on  on,tv  
+button,on  
+tire,on back of  on back of,vehicle  
+train,sitting on  
+on,door  lock,on  
+on,halter  
+in,door  
+ring,on  on,harness  
+rope,on  
+staircase,leading to  leading to,bridge  
+between,vents  
+door,on  on,train  
+on,stairs  paint,on  
+stairs,on  
+bus,on  on,street  
+curb,on  
+trees,on a  on a,mountain  
+stripe,on  on,bus  
+area,on  on,bus  
+along side of,bus  windows,along side of  
