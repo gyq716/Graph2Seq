@@ -46,14 +46,13 @@ def main(args):   #all args is default) as main() function indicating
     # params = list(decoder.parameters()) + list(encoder.linear.parameters()) + list(encoder.bn.parameters())
     params = list(decoder.parameters()) + list(encoder.parameters())
     optimizer = torch.optim.Adam(params, lr=args.learning_rate, weight_decay = 1e-4)
-    scheduler = ReduceLROnPlateau(optimizer, 'min', factor = 0.5, patience = 100, verbose = True)
-    #scheduler =  StepLR(optimizer, step_size = 100, gamma = 0.5)
+    #scheduler = ReduceLROnPlateau(optimizer, 'min', factor = 0.5, patience = 100, verbose = True)
+    scheduler =  StepLR(optimizer, step_size = 30, gamma = 0.5)
     # Train the models
     total_step = len(data_loader)  # numbers of tuples (images,captions,lengths)  # representation of the number of batch of all of the train_data_set
     print('There is total {} batch in test data set\n'.format(total_step))
     for epoch in range(0, args.num_epochs):
-        print('I have enter the epoch and try to load the model\n')
-        #scheduler.step()
+        scheduler.step()
         encoder.train()
         decoder.train()
         sum_loss = 0.0
@@ -90,9 +89,9 @@ def main(args):   #all args is default) as main() function indicating
             optimizer.step()
             sum_loss += loss.item()
         sum_loss /= total_step
-        scheduler.step(sum_loss)
+        #scheduler.step(sum_loss)
         writer.add_scalar('train/loss', sum_loss, epoch)
-        writer.add_scalar('train/perplexity', np.exp(sum_loss), epoch)
+        writer.add_scalar('train/lr', optimizer.param_groups[0]['lr'], epoch)
         # Print log info 
         print('Epoch [{}/{}], Loss: {:.4f}, Perplexity: {:5.4f}'
                 .format(epoch, args.num_epochs, sum_loss, np.exp(sum_loss))) 
@@ -118,7 +117,7 @@ if __name__ == '__main__':
     parser.add_argument('--hidden_size', type=int , default=512, help='dimension of lstm hidden states')
     parser.add_argument('--num_layers', type=int , default=1, help='number of layers in lstm')
     parser.add_argument('--resume', default=False, help = 'whether to resume model')
-    parser.add_argument('--num_epochs', type=int, default=2000)
+    parser.add_argument('--num_epochs', type=int, default=5000)
     parser.add_argument('--batch_size', type=int, default=512)
     parser.add_argument('--num_workers', type=int, default=4)  #the numbers of processes
     parser.add_argument('--learning_rate', type=float, default=0.001)
