@@ -1,0 +1,54 @@
+
+
+New task :
+
+1 : check if the pair(image,caption) indicated by index is correct.     True
+2 : check if the division of the batch is correct.                      True
+3 : check if the dimension of the images(encoder_vectors) is correct.   True
+4 : If all of above are correct,then to modify the 'sample.py' to check the output's effect.
+
+--->Done
+
+
+New task :
+
+1 : check if the GGNN model can be connected to this model      Done
+2 : check if the format of datas can be processed as before     True
+
+--->Done
+    modify a bug:in train.py file about loop,variable i is used in a field twice and correct it.
+
+
+New task :
+
+1 : modify the test file,first you should reach the goal of overfitting      --ing   ->Fail
+
+
+New task :
+
+1 : modify the threshold to 0
+2 : use lookup table to replace embedding  -->in torch , it seems doesn't have LookupTable
+3 : temporary,do not use the node_representation[0] and [2] to add to the [1] to see the performance
+
+New task :
+
+1 : fine-tune the model                               Done
+2 : modify the model using edge relationship,temporary not use the adjacency matrix    Done
+
+
+------------2019/3/2-------------------
+
+New task :
+
+1 : add adjacency matrixs to the file named data_loader.py,and return the correspond adjacency matrix with the imae and caption.   ---ing   --Done
+
+2 : 在collate_fn查看images,captions,matrixs的形状，然后在train中查看传入的matrixs的形状，并在model中将matrix加入进去，最后完成   ----ing   --Done
+
+3 : 2的思路有问题，因为每个mini-batch中，image(graph)的length of vector都填充成了相同的长度   ---Done
+
+
+------------2019/3/12-------------------
+
+New task :
+
+1 : use the same way which train_data used to process test_data           ---ing
