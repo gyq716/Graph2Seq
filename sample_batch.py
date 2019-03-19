@@ -16,7 +16,7 @@ from tensorboardX import SummaryWriter
 
 # Device configuration
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-writer = SummaryWriter('./testVisual')
+writer = SummaryWriter('./testVisual319')
 
 def main(args):
 
@@ -88,11 +88,12 @@ def main(args):
                     #print the generated caption
         f_samp.close()
         f_ref.close()  
-        score = BLEU('./candidate.txt', './reference.txt')
+        score, pn = BLEU('./candidate.txt', './reference.txt')
         sum_loss /= total_step
         print('loss is {:.6f}\tBLEU is {:.8f}\n'.format(sum_loss, score))
         writer.add_scalar('test/loss', sum_loss, epoch)
         writer.add_scalar('test/BLEU', score, epoch)
+        writer.add_scalar('test/n-grams', {'bleu-1' : pn[0], 'bleu-2' : pn[1], 'bleu-3' : pn[2], 'bleu-4' : pn[3]}, epoch)
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--vocab_path', type=str, default='./data/vocab.pkl', help='path for vocabulary wrapper')
