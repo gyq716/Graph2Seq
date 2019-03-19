@@ -7,19 +7,6 @@ import numpy as np
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-class AttrProxy(object):
-    """
-    Translates index lookups into attribute lookups.
-    To implement some trick which able to use list of nn.Module in a nn.Module
-    see https://discuss.pytorch.org/t/list-of-nn-module-in-a-nn-module/219/2
-    """
-    def __init__(self, module, prefix):
-        self.module = module
-        self.prefix = prefix
-
-    def __getitem__(self, i):
-        return getattr(self.module, self.prefix + str(i))
-
 
 class Propogator(nn.Module):
     """
@@ -154,7 +141,8 @@ class EncoderGGNN(nn.Module):
             #print(edge_representation.view(n_proposals, n_proposals, 1).squeeze(2).shape)
             #print(edge_representation.shape)
             # 下面的原来有
-            node_representation = torch.matmul(adjacency_matrix, node_representation)
+
+            node_representation = torch.bmm(adjacency_matrix, node_representation)
             #print(adjacency_matrix.shape, node_representation.shape, node_representation.shape)
             #print(node_representation.shape)
             node_representation = self.propogator(node_representation)   
