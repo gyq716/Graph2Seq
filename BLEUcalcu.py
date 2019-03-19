@@ -59,7 +59,7 @@ def modified_precision(candidates,all_references,n):
 	m_precision = float(count_clip)/count_w 
 	return m_precision
 
-def brevity_penalty(candidate,references):
+def brevity_penalty(candidate,references):   # bp较短句惩罚
 	c = 0
 	
 	for i in candidate:
@@ -87,7 +87,7 @@ def bleu_score(candidate,references):
 
 	
 	data = []
-	for i in range(len(references[0])):
+	for i in range(len(references[0])):  # references里面有多少个句子
 		temp = []
 		for j in range(len(references)):
 			#print [references[j][i]]
@@ -95,7 +95,7 @@ def bleu_score(candidate,references):
 		data.append(temp)
 
 
-	for i in range(1,5):
+	for i in range(1,5):   # 1-4grams
 		temp = modified_precision(candidate,data,i)
 		#print temp
 		pn.append(temp)
@@ -110,7 +110,7 @@ def bleu_score(candidate,references):
 	
 	score = bp*math.exp(p_sum)
 
-	return score
+	return score, pn
 
 
 def BLEU(arg1, arg2):
@@ -141,7 +141,7 @@ def BLEU(arg1, arg2):
     for i in range(len(candidate_contents)):
         candidate_contents[i] = candidate_contents[i].replace("\n","")
 
-    score = bleu_score(candidate_contents,reference_contents)
+    score, pn = bleu_score(candidate_contents,reference_contents)
     f.close()
-    return score
+    return score, pn
 
