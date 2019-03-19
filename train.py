@@ -45,7 +45,7 @@ def main(args):   #all args is default) as main() function indicating
     criterion = nn.CrossEntropyLoss()
     # params = list(decoder.parameters()) + list(encoder.linear.parameters()) + list(encoder.bn.parameters())
     params = list(decoder.parameters()) + list(encoder.parameters())
-    optimizer = torch.optim.Adam(params, lr=args.learning_rate, weight_decay = 1e-4)
+    optimizer = torch.optim.Adam(params, lr=args.learning_rate, weight_decay = 1e-5)
     #scheduler = ReduceLROnPlateau(optimizer, 'min', factor = 0.5, patience = 100, verbose = True)
     scheduler =  StepLR(optimizer, step_size = 100, gamma = 0.7)
     # Train the models
