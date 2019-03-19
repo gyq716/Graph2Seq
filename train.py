@@ -12,7 +12,7 @@ from tensorboardX import SummaryWriter
 from torch.optim.lr_scheduler import ReduceLROnPlateau, StepLR
 
 
-writer = SummaryWriter('./trainTensorBoard')
+writer = SummaryWriter('./trainTensorBoard319')
 
 # Device configuration
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -47,7 +47,7 @@ def main(args):   #all args is default) as main() function indicating
     params = list(decoder.parameters()) + list(encoder.parameters())
     optimizer = torch.optim.Adam(params, lr=args.learning_rate, weight_decay = 1e-4)
     #scheduler = ReduceLROnPlateau(optimizer, 'min', factor = 0.5, patience = 100, verbose = True)
-    scheduler =  StepLR(optimizer, step_size = 30, gamma = 0.5)
+    scheduler =  StepLR(optimizer, step_size = 100, gamma = 0.7)
     # Train the models
     total_step = len(data_loader)  # numbers of tuples (images,captions,lengths)  # representation of the number of batch of all of the train_data_set
     print('There is total {} batch in test data set\n'.format(total_step))
