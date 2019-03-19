@@ -25,12 +25,12 @@ class Propogator(nn.Module):
             nn.Tanh()
         )
 
-    def forward(self, node_representation, adjmatrixs):
+    def forward(self, node_representation, adjmatrixs):   # ICLR2016 fomulas implementation
         a = torch.bmm(adjmatrixs, node_representation)
         joined_input1 = torch.cat((a, node_representation), 2)
         z = self.update_gate(joined_input1)
         r = self.reset_gate(joined_input1)
-        joined_input2 = torch.cat((a, r * node_representation), 2)   # r乘代表对应矩阵元素相乘
+        joined_input2 = torch.cat((a, r * node_representation), 2)   
         h_hat = self.tansform(joined_input2)      
         output = (1 - z) * node_representation + z * h_hat
         return output
@@ -42,9 +42,14 @@ class EncoderGGNN(nn.Module):
         self.state_dim = 256
         self.n_steps = 5
         self.propogator = Propogator(self.state_dim)
-        self.out = nn.Sequential(
+        self.out1 = nn.Sequential(
             nn.Linear(self.state_dim + self.state_dim, self.state_dim),
-            nn.Tanh(),
+            nn.Tanh()
+        )
+        self.out2 = nn.Sequential(    # this is new adding for graph-level outputs
+            nn.Linear(self.state_dim + self.state_dim, self.state_dim),
+            nn.Sigmoid()
+        )
         self._initialization()
 
     def _initialization(self):
@@ -53,17 +58,25 @@ class EncoderGGNN(nn.Module):
                 m.weight.data.normal_(0.0, 0.02)
                 m.bias.data.fill_(0)
 
-    def forward(self, images, adjmatrixs, lengths):  #把trian中的image传进来，然后利用embed处理成node——repres
+    def forward(self, images, adjmatrixs, lengths): 
         lengths = torch.Tensor(lengths).reshape(-1, 1).to(device)
         embeddings = self.embed(images).to(device)
         node_representation = embeddings
         init_node_representation = node_representation
-        for i_step in range(self.n_steps):    # 更新结点的步骤
+        for i_step in range(self.n_steps):    # time_step updating
             node_representation = self.propogator(node_representation, adjmatrixs)   
         gate_inputs = torch.cat((node_representation, init_node_representation), 2)
-        gate_outputs = self.out(gate_inputs)
+        """
+        gate_outputs = self.out1(gateinputs)
+        features = torch.sum(gate_outputs, 1)    
+        features = features / lengths
+        """
+        # graph-level models with soft attention
+        gate_outputs1 = self.out1(gate_inputs)
+        gate_outputs2 = self.out2(gate_inputs)
+        gate_outputs = gate_outputs1 * gate_outputs2
         features = torch.sum(gate_outputs, 1)    # average pooling
-        features = gate_outputs / lengths
+        features = features / lengths
         return features
 
 

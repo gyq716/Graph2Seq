@@ -1,0 +1,1 @@
+1 ：根据ICLR2016的paper，复现了graph level的输出，暂未train，先以avgpooling的形式进行train
