@@ -38,7 +38,7 @@ class Propogator(nn.Module):
 class EncoderGGNN(nn.Module):
     def __init__(self, vocab_size, embed_size):
         super(EncoderGGNN, self).__init__()
-        self.embed = nn.Embedding(vocab_size,embed_size)   
+        self.embed = nn.Embedding(vocab_size, embed_size, padding_idx = 0)   
         self.state_dim = 256
         self.n_steps = 5
         self.propogator = Propogator(self.state_dim)
@@ -51,7 +51,7 @@ class EncoderGGNN(nn.Module):
             nn.Sigmoid()
         )
         self._initialization()
-
+    # lstm 基于 RNNBse已经初始化， embed也已经随机初始化， 一般Linear，Conv需要初始化
     def _initialization(self):
         for m in self.modules():
             if isinstance(m, nn.Linear):
@@ -66,10 +66,10 @@ class EncoderGGNN(nn.Module):
         for i_step in range(self.n_steps):    # time_step updating
             node_representation = self.propogator(node_representation, adjmatrixs)   
         gate_inputs = torch.cat((node_representation, init_node_representation), 2)
-        """
-        gate_outputs = self.out1(gateinputs)
+        gate_outputs = self.out1(gate_inputs)
         features = torch.sum(gate_outputs, 1)    
         features = features / lengths
+
         """
         # graph-level models with soft attention
         gate_outputs1 = self.out1(gate_inputs)
@@ -77,6 +77,7 @@ class EncoderGGNN(nn.Module):
         gate_outputs = gate_outputs1 * gate_outputs2
         features = torch.sum(gate_outputs, 1)    # average pooling
         features = features / lengths
+        """
         return features
 
 
@@ -84,7 +85,7 @@ class DecoderRNN(nn.Module):
     def __init__(self, embed_size, hidden_size, vocab_size, num_layers, max_seq_length=20):
         """Set the hyper-parameters and build the layers."""
         super(DecoderRNN, self).__init__()
-        self.embed = nn.Embedding(vocab_size, embed_size)
+        self.embed = nn.Embedding(vocab_size, embed_size, padding_idx = 0)
         self.lstm = nn.LSTM(embed_size, hidden_size, num_layers, batch_first=True)
         self.linear = nn.Linear(hidden_size, vocab_size)
         self.max_seg_length = max_seq_length
