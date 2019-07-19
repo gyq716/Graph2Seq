@@ -31,6 +31,6 @@ GGNN-LSTM,using scene graph to generate captions
   其他文件都是我在实现过程中做的一些to do list，还有实现过程中的一些增删改还有debug记录。    
   
   ## data/annotation中所给的文件已经是完成了上述与数据预处理相关的任何操作，如果你只是想了解 graph neural network、  attention机制结合lstm，那么无需关心数据的预处理工作~~  
-  
-  
- # 如果你正在做graph的相关研究，本人的github仓库上还有graph convolutional network，graph attention network和gated graph nerual network的单独仓库，如果你有任何问题或者对图神经网络感兴趣但无从下手，欢迎在issues中提问！我看到必立刻回答解释！
+     
+     
+ ## 如果你正在做graph的相关研究，本人的github仓库上还有graph convolutional network，graph attention network和gated graph nerual network的单独仓库，如果你有任何问题或者对图神经网络感兴趣但无从下手，欢迎在issues中提问！我看到必立刻回答解释！
